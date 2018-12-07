@@ -15,7 +15,12 @@ Descargar la imagen de Composer
 ```
 docker pull composer
 ```
-
+Iniciamos la imagen
+```
+docker run --rm --interactive --tty \
+    --volume $PWD:/app \
+    composer install
+```
 ## Paso 3.
 Clonamos nuestro repositorio.
 ```

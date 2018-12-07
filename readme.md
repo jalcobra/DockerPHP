@@ -1,7 +1,7 @@
 # Dockerizando un Proyecto con Laravel (PHP)
 <hr>
 Para Dockerizar un proyecto de Laravel, antes que nada, se debe tener instalado Docker, tener en cuenta que si esta prueba se realizara en Ubuntu ante poner en todos los comandos: sudo
-<hr>
+
 ## Paso 1.
 Ejecute el Siguiente comando:
 ```
